@@ -25,6 +25,19 @@ zhangyoupengdeMacBook-Pro:website zyp$ git branch
 zhangyoupengdeMacBook-Pro:website zyp$ git checkout zyp
 Branch 'zyp' set up to track remote branch 'zyp' from 'origin'.
 Switched to a new branch 'zyp'
+
+
+
+如果显示：
+zhangyoupengdeMacBook-Pro:bug zyp$ git checkout zyp
+error: pathspec 'zyp' did not match any file(s) known to git
+
+则   git branch zyp
+
+
+
+
+
 zhangyoupengdeMacBook-Pro:website zyp$ git branch
   master
 * zyp
