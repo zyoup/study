@@ -73,23 +73,23 @@
 ---------------------------------------
 ## 本地库和远程库
 * 团队内部协作
-[团队内部协作]: https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/团队内部协作.jpg "团队内部协作"
+![团队内部协作]: https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/团队内部协作.jpg "团队内部协作"
 * 跨团队协作
-[跨团队协作]: https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/跨团队协作.jpg "跨团队协作"
+![跨团队协作]: https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/跨团队协作.jpg "跨团队协作"
 ---------------------------------------
 ## git安装
-1.[步骤1]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/1.jpg "步骤1"
-2.[步骤2]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/2.jpg "步骤2"
-3.[步骤3]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/3.jpg "步骤3"
-4.[步骤4 安装目录的名字]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/4安装目录的名字.jpg "步骤4 安装目录的名字"
-5.[步骤5]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/5.jpg "步骤5"
-6.[步骤6]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/6.jpg "步骤6"
-7.[步骤7]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/7.jpg "步骤7"
-8.[步骤8]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/8.jpg "步骤8"
-9.[步骤9]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/9.jpg "步骤9"
-10.[步骤10]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/10.jpg "步骤10"
-11.[步骤11]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/11.jpg "步骤11"
-12.[步骤12]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/12.jpg "步骤12"
+1.![步骤1]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/1.jpg "步骤1"
+2.![步骤2]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/2.jpg "步骤2"
+3.![步骤3]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/3.jpg "步骤3"
+4.![步骤4 安装目录的名字]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/4安装目录的名字.jpg "步骤4 安装目录的名字"
+5.![步骤5]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/5.jpg "步骤5"
+6.![步骤6]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/6.jpg "步骤6"
+7.![步骤7]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/7.jpg "步骤7"
+8.![步骤8]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/8.jpg "步骤8"
+9.![步骤9]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/9.jpg "步骤9"
+10.![步骤10]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/10.jpg "步骤10"
+11.![步骤11]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/11.jpg "步骤11"
+12.![步骤12]: https://github.com/zyoup/image/blob/master/git_all/git简介/安装/12.jpg "步骤12"
 ---------------------------------------
 # git命令
 ---------------------------------------
@@ -147,26 +147,26 @@ git log
 	b 向上翻页
 	q 退出
 ```
-[git log]: https://github.com/zyoup/image/blob/master/git_all/git命令/git_log.jpg "git log"
+![git log]: https://github.com/zyoup/image/blob/master/git_all/git命令/git_log.jpg "git log"
 ```
 git log --pretty=oneline
 ```
-[git log --pretty=oneline]: https://github.com/zyoup/image/blob/master/git_all/git命令/git_long_pretty_oneline.jpg "git log --pretty=oneline"
+![git log --pretty=oneline]: https://github.com/zyoup/image/blob/master/git_all/git命令/git_long_pretty_oneline.jpg "git log --pretty=oneline"
 ```
 git log --oneline
 ◆ 精简版
 ```
-[git log --oneline]: https://github.com/zyoup/image/blob/master/git_all/git命令/git_log_oneline.jpg "git log --oneline"
+![git log --oneline]: https://github.com/zyoup/image/blob/master/git_all/git命令/git_log_oneline.jpg "git log --oneline"
 ```
 git reflog
 ◆ HEAD@{移动到当前版本需要多少步}
 ```
-[git reflog]: https://github.com/zyoup/image/blob/master/git_all/git命令/git_reflog.jpg "git reflog"
+![git reflog]: https://github.com/zyoup/image/blob/master/git_all/git命令/git_reflog.jpg "git reflog"
 > 5.前进后退
 ```
 ❈ 本质
 ```
-[本质]: https://github.com/zyoup/image/blob/master/git_all/git命令/前进or后退_本质.jpg "本质"
+![本质]: https://github.com/zyoup/image/blob/master/git_all/git命令/前进or后退_本质.jpg "本质"
 ```
 ❈ 基于索引值操作[推荐]
 	git reset --hard [局部索引值]
@@ -183,17 +183,17 @@ git reflog
 ❈ --soft 参数 （不常用）
 ◆ 仅仅在本地库移动HEAD指针
 ```
-[soft]: https://github.com/zyoup/image/blob/master/git_all/git命令/soft.jpg "soft"
+![soft]: https://github.com/zyoup/image/blob/master/git_all/git命令/soft.jpg "soft"
 ```
 ❈ --mixed 参数（不常用）
 ◆ 在本地库移动HEAD指针
 ◆ 重置暂存区
 ```
-[mixed]: https://github.com/zyoup/image/blob/master/git_all/git命令/mixed.jpg "mixed"
+![mixed]: https://github.com/zyoup/image/blob/master/git_all/git命令/mixed.jpg "mixed"
 ```
 ❈ --hard 参数（常用）
 ◆ 在本地库移动HEAD指针
 ◆ 重置缓存区
 ◆ 重置工作区
 ```
-[hard]: https://github.com/zyoup/image/blob/master/git_all/git命令/hard.jpg "hard"
+![hard]: https://github.com/zyoup/image/blob/master/git_all/git命令/hard.jpg "hard"
