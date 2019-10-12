@@ -79,29 +79,29 @@
 ---------------------------------------
 ## git安装
 1. <br/>
-![步骤1](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/1.jpg "步骤1")
+![步骤1](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/1.jpg "步骤1")<br/>
 2. <br/>
-![步骤2](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/2.jpg "步骤2")
+![步骤2](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/2.jpg "步骤2")<br/>
 3. <br/>
-![步骤3](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/3.jpg "步骤3")
+![步骤3](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/3.jpg "步骤3")<br/>
 4. <br/>
-![步骤4 安装目录的名字](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/4安装目录的名字.jpg "步骤4 安装目录的名字")
+![步骤4 安装目录的名字](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/4安装目录的名字.jpg "步骤4 安装目录的名字")<br/>
 5. <br/>
-![步骤5](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/5.jpg "步骤5")
+![步骤5](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/5.jpg "步骤5")<br/>
 6. <br/>
-![步骤6](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/6.jpg "步骤6")
+![步骤6](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/6.jpg "步骤6")<br/>
 7. <br/>
-![步骤7](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/7.jpg "步骤7")
+![步骤7](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/7.jpg "步骤7")<br/>
 8. <br/>
-![步骤8](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/8.jpg "步骤8")
+![步骤8](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/8.jpg "步骤8")<br/>
 9. <br/>
-![步骤9](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/9.jpg "步骤9")
+![步骤9](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/9.jpg "步骤9")<br/>
 10. <br/>
-![步骤10](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/10.jpg "步骤10")
+![步骤10](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/10.jpg "步骤10")<br/>
 11. <br/>
-![步骤11](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/11.jpg "步骤11")
+![步骤11](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/11.jpg "步骤11")<br/>
 12. <br/>
-![步骤12](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/12.jpg "步骤12")
+![步骤12](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/12.jpg "步骤12")<br/>
 ---------------------------------------
 # git命令
 ---------------------------------------
