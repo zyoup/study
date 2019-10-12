@@ -72,10 +72,10 @@
 > 码云
 ---------------------------------------
 ## 本地库和远程库
-* 团队内部协作
-![团队内部协作](https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/团队内部协作.jpg "团队内部协作")
-* 跨团队协作
-![跨团队协作](https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/跨团队协作.jpg "跨团队协作")
+* 团队内部协作<br/>
+![团队内部协作](https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/团队内部协作.jpg "团队内部协作")<br/>
+* 跨团队协作<br/>
+![跨团队协作](https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/跨团队协作.jpg "跨团队协作")<br/>
 ---------------------------------------
 ## git安装
 1. <br/>
