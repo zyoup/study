@@ -25,31 +25,31 @@
 ---------------------------------------
 ## 版本控制工具应该具备的功能
 1. 协同修改<br/>
-	多人并行不相悖的修改服务器的同一个文件。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;多人并行不相悖的修改服务器的同一个文件。<br/>
 2.数据备份<br/>
-	不仅保存目录和文件的当前状态，还能够保存每一个提交过的历史状态。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;不仅保存目录和文件的当前状态，还能够保存每一个提交过的历史状态。<br/>
 3.版本管理<br/>
-	在保存每一个版本的文件信息的时候要做到不保存重复数据，以节约存储空间，
+&nbsp;&nbsp;&nbsp;&nbsp;在保存每一个版本的文件信息的时候要做到不保存重复数据，以节约存储空间，
 提高运行效率。在这方面SVN采用的是增量式管理的方法，而Git采取的则是文件系统快照
 的方式。<br/>
 4.权限控制<br/>
-	1）对团队中参与开发的人员进行权限的控制。<br/>
-	2）对团队外的开发者贡献的代码进行审核——Git独有的。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;1）对团队中参与开发的人员进行权限的控制。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;2）对团队外的开发者贡献的代码进行审核——Git独有的。<br/>
 5.历史记录<br/>
-	1）查看修改人、修改时间、修改内容、日志信息。<br/>
-	2）可将本地文件恢复到某一个历史状态。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;1）查看修改人、修改时间、修改内容、日志信息。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;2）可将本地文件恢复到某一个历史状态。<br/>
 6.分支管理<br/>
-	允许开发团队在工作过程中多条生产线同时推进任务，经一部提高效率。<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;允许开发团队在工作过程中多条生产线同时推进任务，经一部提高效率。<br/>
 ---------------------------------------
 ## 版本控制简介
-1.版本控制
-> 工程设计领域中使用版本控制管理工程蓝图的设计过程。在IT开发过程中也可以使用版本
-> 控制思想管理代码的版本迭代。
-2.版本控制工
-> 集中式版本控制工具：
->	CVS、SVN、VSS……
-> 分布式版本控制工具：
-> 	Git、Mercurial、Bazzar、Darcs……
+1.版本控制<br/>
+&ensp工程设计领域中使用版本控制管理工程蓝图的设计过程。在IT开发过程中也可以使用版本
+&ensp控制思想管理代码的版本迭代。
+2.版本控制工具<br/>
+&ensp;集中式版本控制工具：
+&emsp;CVS、SVN、VSS……
+&ensp;分布式版本控制工具：
+&emsp;Git、Mercurial、Bazzar、Darcs……
 ---------------------------------------
 ## Git的优势
 * 大部分操作可在本地完成，不需要联网
@@ -78,18 +78,18 @@
 ![跨团队协作](https://github.com/zyoup/image/blob/master/git_all/git简介/本地库和远程库/跨团队协作.jpg "跨团队协作")；
 ---------------------------------------
 ## git安装
-1.![步骤1]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/1.jpg "步骤1"；
-2.![步骤2]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/2.jpg "步骤2"；
-3.![步骤3]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/3.jpg "步骤3"；
-4.![步骤4 安装目录的名字]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/4安装目录的名字.jpg "步骤4 安装目录的名字"；
-5.![步骤5]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/5.jpg "步骤5"；
-6.![步骤6]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/6.jpg "步骤6"；
-7.![步骤7]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/7.jpg "步骤7"；
-8.![步骤8]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/8.jpg "步骤8"；
-9.![步骤9]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/9.jpg "步骤9"；
-10.![步骤10]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/10.jpg "步骤10"；
-11.![步骤11]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/11.jpg "步骤11"；
-12.![步骤12]:https://github.com/zyoup/image/blob/master/git_all/git简介/安装/12.jpg "步骤12"；
+1.![步骤1](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/1.jpg "步骤1")；
+2.![步骤2](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/2.jpg "步骤2")；
+3.![步骤3](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/3.jpg "步骤3")；
+4.![步骤4 安装目录的名字](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/4安装目录的名字.jpg "步骤4 安装目录的名字")；
+5.![步骤5](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/5.jpg "步骤5")；
+6.![步骤6](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/6.jpg "步骤6")；
+7.![步骤7](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/7.jpg "步骤7")；
+8.![步骤8](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/8.jpg "步骤8")；
+9.![步骤9](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/9.jpg "步骤9")；
+10.![步骤10](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/10.jpg "步骤10")；
+11.![步骤11](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/11.jpg "步骤11")；
+12.![步骤12](https://github.com/zyoup/image/blob/master/git_all/git简介/安装/12.jpg "步骤12")；
 ---------------------------------------
 # git命令
 ---------------------------------------
@@ -147,26 +147,26 @@ git log
 	b 向上翻页
 	q 退出
 ```
-![git log]:https://github.com/zyoup/image/blob/master/git_all/git命令/git_log.jpg "git log"；
+![git log](https://github.com/zyoup/image/blob/master/git_all/git命令/git_log.jpg "git log")；
 ```
 git log --pretty=oneline
 ```
-![git log --pretty=oneline]:https://github.com/zyoup/image/blob/master/git_all/git命令/git_long_pretty_oneline.jpg "git log --pretty=oneline"；
+![git log --pretty=oneline](https://github.com/zyoup/image/blob/master/git_all/git命令/git_long_pretty_oneline.jpg "git log --pretty=oneline")；
 ```
 git log --oneline
 ◆ 精简版
 ```
-![git log --oneline]:https://github.com/zyoup/image/blob/master/git_all/git命令/git_log_oneline.jpg "git log --oneline"；
+![git log --oneline](https://github.com/zyoup/image/blob/master/git_all/git命令/git_log_oneline.jpg "git log --oneline")；
 ```
 git reflog
 ◆ HEAD@{移动到当前版本需要多少步}
 ```
-![git reflog]:https://github.com/zyoup/image/blob/master/git_all/git命令/git_reflog.jpg "git reflog"；
+![git reflog](https://github.com/zyoup/image/blob/master/git_all/git命令/git_reflog.jpg "git reflog")；
 > 5.前进后退
 ```
 ❈ 本质
 ```
-![本质]:https://github.com/zyoup/image/blob/master/git_all/git命令/前进or后退_本质.jpg "本质"；
+![本质](https://github.com/zyoup/image/blob/master/git_all/git命令/前进or后退_本质.jpg "本质")；
 ```
 ❈ 基于索引值操作[推荐]
 	git reset --hard [局部索引值]
@@ -183,17 +183,17 @@ git reflog
 ❈ --soft 参数 （不常用）
 ◆ 仅仅在本地库移动HEAD指针
 ```
-![soft]:https://github.com/zyoup/image/blob/master/git_all/git命令/soft.jpg "soft"；
+![soft](https://github.com/zyoup/image/blob/master/git_all/git命令/soft.jpg "soft")；
 ```
 ❈ --mixed 参数（不常用）
 ◆ 在本地库移动HEAD指针
 ◆ 重置暂存区
 ```
-![mixed]:https://github.com/zyoup/image/blob/master/git_all/git命令/mixed.jpg "mixed"；
+![mixed](https://github.com/zyoup/image/blob/master/git_all/git命令/mixed.jpg "mixed")；
 ```
 ❈ --hard 参数（常用）
 ◆ 在本地库移动HEAD指针
 ◆ 重置缓存区
 ◆ 重置工作区
 ```
-![hard]:https://github.com/zyoup/image/blob/master/git_all/git命令/hard.jpg "hard"；
+![hard](https://github.com/zyoup/image/blob/master/git_all/git命令/hard.jpg "hard")；
